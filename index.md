@@ -17,7 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Advocacy and support for those living with hydrocephalus
-textline: Advocating for Hydrocephalus research and cures
+textline: Advocating for Hydrocephalus research and support
 hero_button:
   text: Learn more
   href: "/about"
