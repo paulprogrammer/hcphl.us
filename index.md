@@ -4,6 +4,7 @@ banner_image: "/img/banner.png"
 layout: landing-page
 heading: Hydrocephalus Advocacy
 partners:
+- "/uploads/2021/07/07/hydrologo2-1.jpeg"
 - "/uploads/2021/07/07/haa-alternate-pathed.svg"
 services:
 - description: Performing collaborative research and providing services to support
