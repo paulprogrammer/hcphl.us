@@ -2,7 +2,7 @@
 tags: []
 title: Fund-Rasing Archery Event in Northern Colorado
 sub_heading: Try Archery for a Good Cause at High Altitude Archery in Longmont
-banner_image: ''
+banner_image: "/uploads/2018/02/17/neurons.jpg"
 slug: archery-charity-shoot
 published: false
 
