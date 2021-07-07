@@ -6,21 +6,13 @@ heading: Hydrocephalus Advocacy
 partners:
 - "/uploads/2021/07/07/hydrologo2-1.jpeg"
 - "/uploads/2021/07/07/haa-alternate-pathed.svg"
-services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+services: []
 sub_heading: Advocacy and support for those living with hydrocephalus
 textline: Advocating for Hydrocephalus research and support
 hero_button:
   text: Learn more
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
