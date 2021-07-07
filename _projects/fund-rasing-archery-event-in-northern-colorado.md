@@ -4,7 +4,6 @@ title: Fund-Rasing Archery Event in Northern Colorado
 sub_heading: Try Archery for a Good Cause at High Altitude Archery in Longmont
 banner_image: "/uploads/2018/02/17/neurons.jpg"
 slug: archery-charity-shoot
-published: false
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt sodales ipsum, id pellentesque lectus sodales eu. Pellentesque quam nulla, venenatis a dapibus a, faucibus vitae sem. Vivamus consectetur tellus id dignissim porta. Nullam commodo maximus purus et fringilla. Integer eget magna vel nulla facilisis laoreet. Ut posuere tellus purus, porttitor dictum ipsum vestibulum sed. Pellentesque id semper ligula. Fusce vulputate odio vitae metus varius, at condimentum turpis maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris at urna id nunc volutpat mattis. In hac habitasse platea dictumst. In hac habitasse platea dictumst. Mauris non tellus eget nibh rhoncus faucibus. Integer a erat eget dolor finibus scelerisque suscipit vitae diam. Pellentesque scelerisque eget elit id elementum. Vestibulum euismod sed nibh malesuada rhoncus.
