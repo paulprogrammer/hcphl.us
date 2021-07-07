@@ -11,7 +11,7 @@ sub_heading: Advocacy and support for those living with hydrocephalus
 textline: Advocating for Hydrocephalus research and support
 hero_button:
   text: Learn more
-  href: "/about"
+  href: "#"
 show_news: false
 show_staff: false
 menu:
